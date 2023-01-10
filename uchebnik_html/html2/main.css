@@ -1,0 +1,34 @@
+* {
+ box-sizing: border-box;
+};	
+.container{
+	/*position: relative;*/
+}
+.headwq{
+	margin-left: 10px;
+	margin-right: 100px;
+}
+body{
+	width: 800px;
+	margin-left: 0;
+	
+}
+.header_name{
+	margin-bottom: 20px;
+	padding: 20px;	
+	text-align: center;
+	font-size: 25px;
+}
+.infa{
+	padding: 0 20px;
+	font-size: 22px;
+	text-align: justify;
+	text-indent: 50px;
+}
+.graf{
+	position: relative;
+	float: right;
+}
+img{
+	padding-left: 55px;
+}

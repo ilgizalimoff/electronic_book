@@ -1,0 +1,44 @@
+* {
+ box-sizing: border-box;
+};	
+.container{
+
+}
+.headwq{
+	margin-left: 10px;
+	margin-right: 100px;
+}
+body{
+	width: 800px;
+	margin-left: 0;
+	
+}
+.header_name{
+	margin-bottom: 20px;
+	padding: 20px;	
+	text-align: center;
+	font-size: 25px;
+}
+.infa{
+	padding: 0 20px;
+	font-size: 22px;
+	text-align: justify;
+	text-indent: 50px;
+}
+
+img{
+	padding-left: 0;	
+}
+.img2{
+	padding-left: 0;
+}
+.img3{
+	padding-left: 0;
+}
+.img4{
+	padding-left: 0;
+}
+.img5{
+	padding-left: 0;
+	margin-bottom: 220px;
+}

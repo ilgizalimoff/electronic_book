@@ -1,0 +1,41 @@
+* {
+ box-sizing: border-box;
+};	
+.inner{
+	margin-left: 10px;
+	margin-right: 100px;
+}
+body{
+	width: 800px;
+	margin-left: 0;
+	margin-bottom: 50px;
+}
+.inner_head{
+	margin-bottom: 20px;
+	padding: 20px;	
+	text-align: center;
+	font-size: 25px;
+}
+.inner_item{
+	padding: 0 20px;
+	font-size: 22px;
+	text-align: justify;
+	text-indent: 50px;
+}
+p{
+	margin: 0
+}
+
+img{
+}
+.img1{
+	text-align: center;
+	margin-top: 22px;
+}
+.img2{
+	text-align: center;
+	margin-top: 22px;
+}
+.grafs{
+	text-align: center;
+}
